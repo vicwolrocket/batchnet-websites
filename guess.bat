@@ -28,3 +28,5 @@ echo.
 pause
 cd..
 cd..
+start main.bat
+exit
