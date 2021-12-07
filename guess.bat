@@ -27,5 +27,5 @@ echo.
 echo It took you %guessnum% guesses. 
 echo. 
 pause
-start page.bat
-exit
+cd..
+goto_page_true.exe
