@@ -28,3 +28,4 @@ echo It took you %guessnum% guesses.
 echo. 
 pause
 start page.bat
+exit
