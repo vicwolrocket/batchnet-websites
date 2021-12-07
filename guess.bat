@@ -1,4 +1,5 @@
 @echo off
+:main
 color 0e
 title Guessing Game by seJma
 set /a guessnum=0
@@ -26,3 +27,4 @@ echo.
 echo It took you %guessnum% guesses. 
 echo. 
 pause
+goto main
