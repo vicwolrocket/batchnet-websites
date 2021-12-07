@@ -27,4 +27,4 @@ echo.
 echo It took you %guessnum% guesses. 
 echo. 
 pause
-goto main
+start page.bat
